@@ -1,3 +1,5 @@
+ <img src="nexl.png" alt="Lichess QR Code Generator Icon" />
+
 # NEXL — Natural Expression Language
 
 > **NEXL** is a plain-text notation language for expressing **intent, ambiguity, branching, sequence, and relationships** in a way that is natural for humans and precise for AI.
